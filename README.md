@@ -17,3 +17,6 @@
 
 •	Employed modular code structure with separate components for Todo, TodoForm, and EditTodoForm.
 
+![Screenshot 2024-07-28 223828](https://github.com/user-attachments/assets/699f0416-d87b-4b79-ad07-381956f180f4)
+
+![Screenshot 2024-07-28 224003](https://github.com/user-attachments/assets/31d6e4f6-cd6e-4e8b-bd1f-1023a6fc72b1)
